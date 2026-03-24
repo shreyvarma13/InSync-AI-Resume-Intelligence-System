@@ -32,6 +32,9 @@ Tools & Technologies Used
 3. Run the application using: streamlit run app.py
 4. Upload a resume to get insights
 
+## Note: This repo does not contain dataset and code files to access them follow the link below
+👉 https://drive.google.com/drive/folders/1m-esVg19P9i9Ya4QSHuflhkfVWUMUMcm?usp=sharing
+
 ## Output Features
 Top 3 matched roles with similarity, coverage, and missing skills.
 Strategic report including analysis, weak areas, improvements, roadmap, and readiness score.
